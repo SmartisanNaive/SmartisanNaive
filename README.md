@@ -27,12 +27,30 @@ Graduate Student at **SUAT** (Shenzhen University of Advanced Technology)
 
 ---
 
+### 📈 Star History
+
+<div align="center">
+  <a href="https://star-history.com/#SmartisanNaive/AI-Cleaner&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=smartisannaive/ai-cleaner&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=smartisannaive/ai-cleaner&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=smartisannaive/ai-cleaner&type=Date" width="100%" />
+    </picture>
+  </a>
+</div>
+
+---
+
+### 👾 Contribution Arena
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/contriboom/dark/game.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/contriboom/light/game.svg" />
+    <img alt="Contribution animation" src="images/contriboom/light/game.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 *💬 Always open to discussions, academic exchanges, and collaborations in autonomous science and agent architectures—feel free to connect!*
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmartisanNaive/SmartisanNaive/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmartisanNaive/SmartisanNaive/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SmartisanNaive/SmartisanNaive/output/snake.svg" />
-</picture>
