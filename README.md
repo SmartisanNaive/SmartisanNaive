@@ -21,16 +21,10 @@ Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)
 
 ---
 
-### Core Stack
+### 🛠️ Tech Stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,matlab,go,ts,js,react,threejs,vue,vite,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,matlab,go,ts,js,react,threejs,vue,vite,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&theme=light&perline=10" />
-    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,matlab,go,ts,js,react,threejs,vue,vite,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&perline=10" alt="Core Stack" />
-  </picture>
-  <br/>
-  <sub>LangGraph & Multi-Agent Systems · NLP & Computer Vision (CV) · Lab Automation & 3D Simulation</sub>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,matlab,go,ts,js,react,threejs,vue,vite,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&perline=10" alt="Tech Stack" />
 </div>
 
 ---
