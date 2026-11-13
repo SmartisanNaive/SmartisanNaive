@@ -2,7 +2,7 @@
 
 > I work at the intersection of **AI for Science**, **Lab Automation**, and **Agent Systems**—bridging digital intelligence with physical wet-lab workflows.
 
-Joint M.Eng. student in **Biology & Medicine**, co-trained by **SUAT** (Shenzhen University of Advanced Technology) × **SUStech** (Southern University of Science and Technology) × **SIAT** (Shenzhen Institutes of Advanced Technology, CAS)  
+M.Eng. student in **Biology & Medicine** at a university in Shenzhen  
 Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)  
 *T Young, T Simple, Smartisan Naive*
 
