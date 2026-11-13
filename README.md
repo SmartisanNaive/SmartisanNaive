@@ -5,7 +5,7 @@
 <img src="https://avatars.githubusercontent.com/u/118541063?v=4" width="130" alt="Baice" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF6B35&center=true&vCenter=true&width=620&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+AI+Full-Stack+Engineer;AI+%C3%97+Synthetic+Biology;Lab+Automation+Builder;Unlock+Your+World+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF6B35&center=true&vCenter=true&width=620&lines=AI+Full-Stack+Engineer;AI+%C3%97+Synthetic+Biology;Lab+Automation+Builder;Make+Bioengineering+as+Agile+as+Code" alt="Typing SVG" />
 </a>
 
 **T Young, T Simple, Smartisan Naive**
@@ -18,10 +18,10 @@
 
 ## 🧬 关于我
 
-- 🔬 做 **AI × 合成生物学**：用 LLM Agent 驱动实验室自动化 —— Opentrons 协议生成、云端生物实验平台、DNA 序列智能设计
-- 🤖 也造 AI 工具：LangGraph 多 Agent 系统、AIGC 痕迹分析与改写、MCP 应用接入
-- 🐍 主力 **Python / TypeScript**，坚信"让生物工程像软件开发一样高效"
-- 💬 欢迎和我聊：AI Agent · 生物铸造厂 (BioFoundry) · Web 全栈
+- 🔬 **AI × 合成生物学**：探索用 AI Agent 驱动实验室自动化 —— 包括自动生成 Opentrons 移液协议、Web 端 3D 实验仿真与 DNA 调控序列设计
+- 🛠️ **开发者工具与 Agent 实践**：平时喜欢造趁手的轮子，折腾过多 Agent 协同工作流（LangGraph）、中文去 AI 味工具以及各类 MCP 协议接入
+- 💡 **一个执念**：主力使用 Python 与 TypeScript，总觉得生物湿实验也该像软件工程一样敏捷、可复现和自动化
+- 💬 **随便聊聊**：欢迎交流 AI Agent、生物自动化（BioFoundry）、全栈开发，随时 Ping 我！
 
 ---
 
@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/SmartisanNaive">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=E6EDF3" alt="GitHub stats" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=E6EDF3" alt="GitHub stats" />
   </a>
   <a href="https://github.com/SmartisanNaive">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=E6EDF3&icon_color=FF6B35" alt="Top languages" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=E6EDF3&icon_color=FF6B35" alt="Top languages" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🐍 贪吃蛇吞噬贡献
+## 🐍 贡献足迹
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmartisanNaive/SmartisanNaive/output/snake-dark.svg" />
@@ -67,8 +67,8 @@
 
 | | |
 |:---:|:---:|
-| **🧹 [AI-Cleaner](https://github.com/SmartisanNaive/AI-Cleaner)**<br><sub>LangGraph 多 Agent × 本地 NLP 规则引擎的中文 AI 痕迹消解系统，LLM 语义重构 + 零 token 后处理双通道串联</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/AI-Cleaner?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/AI-Cleaner/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/AI-Cleaner?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/AI-Cleaner/network/members) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/AI-Cleaner) | **🧬 [LLM_for_EVO2](https://github.com/SmartisanNaive/LLM_for_EVO2)**<br><sub>基于 NVIDIA EVO2-40B + GLM-4.5 的无细胞系统表达调控序列智能设计平台，三阶段迭代优化工作流</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/LLM_for_EVO2?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/LLM_for_EVO2/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/LLM_for_EVO2) |
-| **🤖 [MOSS-Lab](https://github.com/SmartisanNaive/MOSS-Lab)**<br><sub>Web AI Agent：本地 Opentrons 协议仿真 + Flex 3D 预览，基于 DeepSeek Harness 构建</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/MOSS-Lab?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/MOSS-Lab/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/MOSS-Lab?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/MOSS-Lab/network/members) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/SmartisanNaive/MOSS-Lab) | **🧪 [BioFoundry](https://github.com/SmartisanNaive/BioFoundry)**<br><sub>生物铸造厂 —— 让生物工程像软件开发一样高效 (Make bioengineering as efficient as software development)</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/BioFoundry?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/BioFoundry/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/BioFoundry) |
+| **🧹 [AI-Cleaner](https://github.com/SmartisanNaive/AI-Cleaner)**<br><sub>中文“去 AI 味”重写工具。结合多 Agent 语义改写与本地规则过滤，把生硬机械的机器腔调改回自然人话</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/AI-Cleaner?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/AI-Cleaner/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/AI-Cleaner?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/AI-Cleaner/network/members) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/AI-Cleaner) | **🧬 [LLM_for_EVO2](https://github.com/SmartisanNaive/LLM_for_EVO2)**<br><sub>结合 NVIDIA Evo 2 基因组大模型与 GLM，面向无细胞系统自动设计并迭代优化 DNA 表达调控序列</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/LLM_for_EVO2?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/LLM_for_EVO2/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/LLM_for_EVO2) |
+| **🤖 [MOSS-Lab](https://github.com/SmartisanNaive/MOSS-Lab)**<br><sub>网页端实验室 AI 助手：支持 Opentrons 移液协议自动生成、本地离线仿真与 Flex 3D 实验台实时预览</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/MOSS-Lab?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/MOSS-Lab/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/MOSS-Lab?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/MOSS-Lab/network/members) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/SmartisanNaive/MOSS-Lab) | **🧪 [BioFoundry](https://github.com/SmartisanNaive/BioFoundry)**<br><sub>开源生物铸造厂探索：将软件工程的敏捷、模块化与自动化测试理念，引入现代生物湿实验</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/BioFoundry?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/BioFoundry/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/BioFoundry) |
 
 ---
 
