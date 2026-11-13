@@ -10,27 +10,27 @@
 
 **T Young, T Simple, Smartisan Naive**
 
-[`📍 Beijing`](https://kangtaoai.cn) · [`🌐 kangtaoai.cn`](https://kangtaoai.cn) · [`📧 flashover@foxmail.com`](mailto:flashover@foxmail.com)
+[`📍 Shenzhen, China`](https://kangtaoai.cn) · [`🎓 Graduate Student @ SUAT`](https://www.suat-sz.edu.cn) · [`🌐 kangtaoai.cn`](https://kangtaoai.cn)
 
 </div>
 
 ---
 
-## 🧬 关于我
+## 🧬 About Me
 
 > I work at the intersection of **AI for Science**, **Lab Automation**, and **Agent Systems**—bridging digital intelligence with physical wet-lab workflows.
 
-你好，我是 **Baice**，一个游走在**科研自动化**与**全栈工程**之间的构建者（Builder）。
+Hi, I'm **Baice** (`@SmartisanNaive`). I am currently a graduate student at **SUAT** (Shenzhen University of Advanced Technology), exploring how autonomous systems can accelerate scientific discovery.
 
-* 🧬 **Exploring**：用 AI Agent 重构合成生物学与湿实验流程，坚信生物工程也能像软件开发一样敏捷、模块化与自动化。
-* 🤖 **Bridging**：搭建大模型智能体与物理硬件、自动化移液平台的桥梁，探索从自然语言到可复现实验的端到端闭环。
-* 🛠️ **Crafting**：信奉第一性原理，偏爱轻量、直接、少即是多（Less is More）的系统架构与极客工具。
+* 🧬 **Exploring** autonomous wet-lab systems and AI-driven synthetic biology, aiming to make bioengineering as agile, modular, and reproducible as software development.
+* 🤖 **Bridging** multimodal LLM agents with physical hardware and automation platforms, translating natural language into deterministic lab workflows.
+* 🛠️ **Crafting** clean, first-principles architectures and developer tools with a "less is more" engineering aesthetic.
 
-*💬 随时欢迎聊聊自驱实验室（Self-driving Labs）、Agent 落地或全栈架构交流；Ping me anytime!*
+*💬 Always open to discussions, technical exchanges, and collaborations in AI4Science, lab automation, and agent architectures—feel free to connect!*
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/SmartisanNaive">
@@ -47,7 +47,7 @@
 
 ---
 
-## 🐍 贡献足迹
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmartisanNaive/SmartisanNaive/output/snake-dark.svg" />
@@ -57,27 +57,27 @@
 
 ---
 
-## 🛠️ 技能栈
+## 🛠️ Tech Stack
 
-| 分类 | 技术 |
+| Category | Technologies |
 |:---:|:---|
 | 🤖 **AI & LLM** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| 🎨 **前端** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ⚙️ **后端 & 数据** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-70FFAF?style=flat-square&logo=deno&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| 🚢 **运维 & 工具** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| 🎨 **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ⚙️ **Backend & Runtimes** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-70FFAF?style=flat-square&logo=deno&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| 🚢 **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
-## 🚀 精选项目
+## 🚀 Featured Projects
 
 | | |
 |:---:|:---:|
-| **🧹 [AI-Cleaner](https://github.com/SmartisanNaive/AI-Cleaner)**<br><sub>中文“去 AI 味”重写工具。结合多 Agent 语义改写与本地规则过滤，把生硬机械的机器腔调改回自然人话</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/AI-Cleaner?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/AI-Cleaner/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/AI-Cleaner?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/AI-Cleaner/network/members) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/AI-Cleaner) | **🧬 [LLM_for_EVO2](https://github.com/SmartisanNaive/LLM_for_EVO2)**<br><sub>结合 NVIDIA Evo 2 基因组大模型与 GLM，面向无细胞系统自动设计并迭代优化 DNA 表达调控序列</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/LLM_for_EVO2?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/LLM_for_EVO2/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/LLM_for_EVO2) |
-| **🤖 [MOSS-Lab](https://github.com/SmartisanNaive/MOSS-Lab)**<br><sub>网页端实验室 AI 助手：支持 Opentrons 移液协议自动生成、本地离线仿真与 Flex 3D 实验台实时预览</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/MOSS-Lab?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/MOSS-Lab/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/MOSS-Lab?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/MOSS-Lab/network/members) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/SmartisanNaive/MOSS-Lab) | **🧪 [BioFoundry](https://github.com/SmartisanNaive/BioFoundry)**<br><sub>开源生物铸造厂探索：将软件工程的敏捷、模块化与自动化测试理念，引入现代生物湿实验</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/BioFoundry?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/BioFoundry/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/BioFoundry) |
+| **🧹 [AI-Cleaner](https://github.com/SmartisanNaive/AI-Cleaner)**<br><sub>A lightweight "de-AI" rewriting tool combining multi-agent semantic reconstruction with local rules to turn robotic machine text back into natural human writing</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/AI-Cleaner?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/AI-Cleaner/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/AI-Cleaner?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/AI-Cleaner/network/members) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/AI-Cleaner) | **🧬 [LLM_for_EVO2](https://github.com/SmartisanNaive/LLM_for_EVO2)**<br><sub>Automated design and iterative optimization of expression regulatory sequences for cell-free systems, powered by NVIDIA Evo 2 and GLM</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/LLM_for_EVO2?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/LLM_for_EVO2/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/LLM_for_EVO2) |
+| **🤖 [MOSS-Lab](https://github.com/SmartisanNaive/MOSS-Lab)**<br><sub>Web-based AI agent for lab automation: automated Opentrons protocol synthesis, local dry-run simulation, and interactive Flex 3D visualization</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/MOSS-Lab?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/MOSS-Lab/stargazers) [![forks](https://img.shields.io/github/forks/SmartisanNaive/MOSS-Lab?style=flat-square&color=E6EDF3)](https://github.com/SmartisanNaive/MOSS-Lab/network/members) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/SmartisanNaive/MOSS-Lab) | **🧪 [BioFoundry](https://github.com/SmartisanNaive/BioFoundry)**<br><sub>An open-source exploration platform bringing the agility, modularity, and automated testing of software engineering into modern wet labs</sub><br>[![stars](https://img.shields.io/github/stars/SmartisanNaive/BioFoundry?style=flat-square&color=FF6B35)](https://github.com/SmartisanNaive/BioFoundry/stargazers) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/SmartisanNaive/BioFoundry) |
 
 ---
 
-## 📈 最近活动
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmartisanNaive&bg_color=0D1117&color=E6EDF3&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="activity graph" />
