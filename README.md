@@ -21,14 +21,16 @@ Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)
 
 ---
 
-### Tech Stack
+### Core Stack
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,ts,react,vue,vite,fastapi,nodejs,deno,docker,linux,nginx,git,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,ts,react,vue,vite,fastapi,nodejs,deno,docker,linux,nginx,git,githubactions&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,pytorch,ts,react,vue,vite,fastapi,nodejs,deno,docker,linux,nginx,git,githubactions" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,matlab,go,ts,js,react,threejs,vue,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,matlab,go,ts,js,react,threejs,vue,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,matlab,go,ts,js,react,threejs,vue,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&perline=9" alt="Core Stack" />
   </picture>
+  <br/>
+  <sub>LangGraph & Multi-Agent Systems · NLP & Foundation Models · Lab Automation</sub>
 </div>
 
 ---
