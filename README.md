@@ -2,7 +2,7 @@
 
 > I work at the intersection of **AI for Science**, **Lab Automation**, and **Agent Systems**—bridging digital intelligence with physical wet-lab workflows.
 
-Graduate Student at **SUAT** (Shenzhen University of Advanced Technology)  
+Joint M.Eng. student in **Biology & Medicine**, co-trained by **SUAT** (Shenzhen University of Advanced Technology) × **SUStech** (Southern University of Science and Technology) × **SIAT** (Shenzhen Institutes of Advanced Technology, CAS)  
 Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)  
 *T Young, T Simple, Smartisan Naive*
 
@@ -10,14 +10,20 @@ Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)
 
 ### Research & Engineering Directions
 
+* **Self-Iterating Bio-Laboratory**  
+  Building self-driving wet labs on a stack of LLM agents, agent harnesses, and vision-language-action (VLA) models—closing the loop from hypothesis and protocol design to execution, measurement, analysis, and autonomous re-iteration.
+
+* **NLP Processing**  
+  Chinese NLP systems for AIGC trace detection and semantic rewriting—coupling LLM reasoning with deterministic, zero-token rule-based post-processing pipelines.
+
 * **AI for Science & Synthetic Biology**  
   Exploring autonomous wet-lab platforms, foundation models for genomics, and generative biological design—aiming to make bioengineering as agile, modular, and reproducible as software engineering.
 
 * **Embodied Agents & Lab Automation**  
   Bridging multimodal LLM agents with physical labware and automation platforms. Translating high-level natural language intent into deterministic protocols, dry-run simulations, and hardware execution.
 
-* **System Architecture & Developer Tooling**  
-  Crafting lightweight developer infrastructure, agent-hardware communication protocols, and open-source utilities. Driven by first principles with a strict "less is more" engineering aesthetic.
+* **AI Infra · AI4S · AI4SM**  
+  Lightweight AI infrastructure—LLM API gateways, MCP integrations, and workflow orchestration—plus applications across science and medicine: genomic foundation models, medical image analysis, and diagnostic automation.
 
 ---
 
