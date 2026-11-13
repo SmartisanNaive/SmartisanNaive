@@ -53,25 +53,25 @@ Hi, I'm **Baice** (`@SmartisanNaive`). I am currently a graduate student at **SU
 <div align="center">
   <a href="https://github.com/SmartisanNaive">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=E6EDF3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=FAFBFC&title_color=FF6B35&icon_color=FF6B35&text_color=24292F" />
-      <img height="150" src="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=FAFBFC&title_color=FF6B35&icon_color=FF6B35&text_color=24292F" alt="GitHub stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=E6EDF3" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=24292F" />
+      <img height="150" src="https://github-stats-extended.vercel.app/api?username=SmartisanNaive&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=24292F" alt="GitHub stats" />
     </picture>
   </a>
   <a href="https://github.com/SmartisanNaive">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=E6EDF3&icon_color=FF6B35" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=FAFBFC&title_color=FF6B35&text_color=24292F&icon_color=FF6B35" />
-      <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=FAFBFC&title_color=FF6B35&text_color=24292F&icon_color=FF6B35" alt="Top languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=E6EDF3&icon_color=FF6B35" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=24292F&icon_color=FF6B35" />
+      <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SmartisanNaive&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=24292F&icon_color=FF6B35" alt="Top languages" />
     </picture>
   </a>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SmartisanNaive&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SmartisanNaive&hide_border=true&background=FAFBFC&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
-    <img src="https://streak-stats.demolab.com?user=SmartisanNaive&hide_border=true&background=FAFBFC&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SmartisanNaive&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SmartisanNaive&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
+    <img src="https://streak-stats.demolab.com?user=SmartisanNaive&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub streak" />
   </picture>
 </div>
 
@@ -80,9 +80,9 @@ Hi, I'm **Baice** (`@SmartisanNaive`). I am currently a graduate student at **SU
 <div align="center">
   <a href="https://github.com/SmartisanNaive">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=SmartisanNaive&bg_color=0D1117&color=E6EDF3&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=SmartisanNaive&bg_color=FAFBFC&color=24292F&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" />
-      <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=SmartisanNaive&bg_color=FAFBFC&color=24292F&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=SmartisanNaive&bg_color=00000000&color=E6EDF3&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graphkayan.vercel.app/graph?username=SmartisanNaive&bg_color=00000000&color=24292F&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" />
+      <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=SmartisanNaive&bg_color=00000000&color=24292F&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
     </picture>
   </a>
 </div>
