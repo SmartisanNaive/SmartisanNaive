@@ -5,7 +5,7 @@
 <img src="https://avatars.githubusercontent.com/u/118541063?v=4" width="130" alt="Baice" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF6B35&center=true&vCenter=true&width=620&lines=AI+Full-Stack+Engineer;AI+%C3%97+Synthetic+Biology;Lab+Automation+Builder;Make+Bioengineering+as+Agile+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF6B35&center=true&vCenter=true&width=620&lines=AI+for+Science+%C2%B7+Lab+Automation;Bridging+Bits+%26+Biology;Agent-Hardware+Systems;Make+Bioengineering+as+Agile+as+Code" alt="Typing SVG" />
 </a>
 
 **T Young, T Simple, Smartisan Naive**
@@ -18,10 +18,15 @@
 
 ## 🧬 关于我
 
-- 🔬 **AI × 合成生物学**：探索用 AI Agent 驱动实验室自动化 —— 包括自动生成 Opentrons 移液协议、Web 端 3D 实验仿真与 DNA 调控序列设计
-- 🛠️ **开发者工具与 Agent 实践**：平时喜欢造趁手的轮子，折腾过多 Agent 协同工作流（LangGraph）、中文去 AI 味工具以及各类 MCP 协议接入
-- 💡 **一个执念**：主力使用 Python 与 TypeScript，总觉得生物湿实验也该像软件工程一样敏捷、可复现和自动化
-- 💬 **随便聊聊**：欢迎交流 AI Agent、生物自动化（BioFoundry）、全栈开发，随时 Ping 我！
+> I work at the intersection of **AI for Science**, **Lab Automation**, and **Agent Systems**—bridging digital intelligence with physical wet-lab workflows.
+
+你好，我是 **Baice**，一个游走在**科研自动化**与**全栈工程**之间的构建者（Builder）。
+
+* 🧬 **Exploring**：用 AI Agent 重构合成生物学与湿实验流程，坚信生物工程也能像软件开发一样敏捷、模块化与自动化。
+* 🤖 **Bridging**：搭建大模型智能体与物理硬件、自动化移液平台的桥梁，探索从自然语言到可复现实验的端到端闭环。
+* 🛠️ **Crafting**：信奉第一性原理，偏爱轻量、直接、少即是多（Less is More）的系统架构与极客工具。
+
+*💬 随时欢迎聊聊自驱实验室（Self-driving Labs）、Agent 落地或全栈架构交流；Ping me anytime!*
 
 ---
 
