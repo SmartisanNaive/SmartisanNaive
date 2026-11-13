@@ -21,9 +21,15 @@ Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)
 
 ---
 
-### Core Stack
+### Tech Stack
 
-`Python` · `TypeScript` · `LangGraph` · `FastAPI` · `React` · `Node.js` · `Docker` · `Linux`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,ts,react,vue,vite,fastapi,nodejs,deno,docker,linux,nginx,git,githubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,ts,react,vue,vite,fastapi,nodejs,deno,docker,linux,nginx,git,githubactions&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,ts,react,vue,vite,fastapi,nodejs,deno,docker,linux,nginx,git,githubactions" alt="Tech Stack" />
+  </picture>
+</div>
 
 ---
 
