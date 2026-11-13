@@ -21,7 +21,7 @@ Shenzhen, China · [`kangtaoai.cn`](https://kangtaoai.cn)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,matlab,go,ts,js,react,threejs,vue,vite,fastapi,nodejs,deno,docker,kubernetes,linux,nginx,git,githubactions&perline=10" alt="Tech Stack" />
